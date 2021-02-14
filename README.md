@@ -7,6 +7,6 @@ YouTube video below for quick code review and demonstration:
      <img 
       src="https://img.youtube.com/vi/kYij6eJ4mwI/0.jpg" 
       alt="Everything Is AWESOME" 
-      height="350" width="450">
+      height="300" width="450">
       </a>
     </div>
